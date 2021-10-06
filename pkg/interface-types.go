@@ -1,4 +1,4 @@
-package changeme
+package pkg
 
 import (
 	"reflect"
